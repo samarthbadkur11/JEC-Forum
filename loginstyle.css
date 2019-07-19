@@ -1,0 +1,23 @@
+*{box-sizing: border-box;}
+body
+{
+	overflow-x: hidden;
+}
+#header
+{
+	text-align:center; color: #000000;
+}
+#loginbox
+{
+	width: 50%; height: 400px; margin: 100px 120px 100px 120px ; border-left: 20px solid #ff3377;
+  background-color: lightgrey; padding: 100px 30px 150px 10px; text-align: center; 
+}
+}
+#formstyle
+{
+	border: 1px solid black;
+}
+.logininputstyle
+{
+	width: 100%; margin-left: 10px; margin-right: 10px;
+}
