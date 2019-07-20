@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Alex+Brush|Allerta+Stencil|Gloria+Hallelujah|Kaushan+Script|Lobster+Two|Rock+Salt|Sacramento&display=swap');
+*{box-sizing: border-box;}
+body
+{
+	overflow-x: hidden; background-image: url("gradient12.jpg");background-size: cover;background-blend-mode: difference; background-repeat: no-repeat;
+}
+#header
+{
+	text-align:center; color: #000000;color: white;te;font-family: 'Kaushan Script', cursive;font-size: 70px;margin-top: 30px;letter-spacing: 2px;word-spacing: 5px;
+}			
+#loginbox
+{
+	width: 50%; height: 400px; margin: 100px 120px 100px 120px ; border-left: 20px solid #1057da;
+  background-color: lightgrey; padding: 100px 30px 150px 10px; text-align: center; 
+}
+}
+#formstyle
+{
+	border: none;
+}
+.logininputstyle
+{
+	width: 100%; margin-left: 10px; margin-right: 10px;
+}
+#registerstyle
+{
+	font-family: "Kaushan Script"; font-size: 50px; font-weight: 300;text-align: center;
+}
+#registrationbox
+{
+	width: 100%;border: 5px solid lightgrey; border-radius: 10px; margin: 50px 10px 10px 10px;
+	background-image: linear-gradient(to top, #dfe9f3 0%, white 100%); padding: 20px 10px 20px 10px;
+}
+#formregstyle
+{
+	font-family: "Kaushan Script",cursive; font-size: 20px;
+}
+.registerinputstyle
+{
+	width: 100%;border-left: 5px solid black;border-right: 5px solid black; border-radius: 10px;padding-left: 5px; background-color: white;
+}
+#regbutton
+{
+	font-size: 25px;text-align: center;display: inline; margin-left: 45%; border-radius: 10px; background-color: white; 	
+}
+.liststyle
+{
+	width: 100%;
+}
